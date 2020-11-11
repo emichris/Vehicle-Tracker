@@ -32,5 +32,5 @@ The reslt is shown in this youtube video [here](https://github.com/emichris/Vehi
 Must give credit to Morgan State University School or Engineering especially: 
 1. Dr. Kofi Nyarko, Electrical Engineering
 2. Dr. Celeste Chavis, Transportation Engineering
-3. Ishtiak -, Transportation
+3. Istiak Bhuyan, Transportation Engineering
 for the opportunity to conduct this research. All data used are open sources and do not have any additonal permission from me, so feel free to use the code here as you would like! 
